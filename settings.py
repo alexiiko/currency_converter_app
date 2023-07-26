@@ -1,0 +1,9 @@
+import pygame as pg
+
+SCREEN_WIDTH = 700
+SCREEN_HEIGHT = 530
+SCREEN = pg.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
+
+CURRENY_BUTTON_SIZE = 75
+
+FPS = 60
